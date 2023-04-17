@@ -6,10 +6,10 @@
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
 #player #play{ background:url(https://s9.gifyu.com/images/unnamede2fc5c9bf2995af9.jpg); }
-#player #play,#player #pause{ left:26px; }
+#player #play,#player #pause{ left:22px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
-#player #title{ left:90px;  font-size: 9px; }
+#player #title{ left:70px;  font-size: 9px; }
 #player #tooltip{ right:196px; }
 #player #timer{ right:120px;  }
 #player #list{ right:0px; }
